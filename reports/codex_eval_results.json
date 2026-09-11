@@ -1,0 +1,417 @@
+{
+  "generated_at": "2026-09-08T13:08:46.034225+08:00",
+  "evaluation_backend": "Codex desktop account runtime (preview)",
+  "entries": 27,
+  "averages": {
+    "faithfulness": 0.9981481481481481,
+    "answer_relevance": 0.9944444444444445,
+    "correctness": 0.9888888888888888
+  },
+  "results": [
+    {
+      "id": 1,
+      "question": "How can customers track their orders?",
+      "expected_answer": "Customers can track their orders using the Order Tracking page on the website, or using their order number and registered email address.",
+      "actual_answer": "Customers can track orders on the website’s Order Tracking page using their order number and registered email address. After shipment, they also receive a tracking number by email or SMS.",
+      "retrieved_context": [
+        "The support team will check the shipment information.\n\nIf the item was shipped separately, the customer will receive separate tracking information.\n\nIf the item was not shipped, the company may arrange another shipment or provide a refund.\n\n==================================================\nPAYMENT METHODS\n==================================================\n\nThe store accepts credit cards, debit cards, UPI, and net banking.",
+        "E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE\n\n==================================================\nORDER TRACKING\n==================================================\n\nCustomers can track their orders using the Order Tracking page on the website.\n\nAfter an order is shipped, the customer receives a tracking number through email or SMS.\n\nStandard delivery usually takes 3 to 5 business days after shipment.\n\nExpress delivery usually takes 1 to 2 business days after shipment.",
+        "Customers can track their order using their order number and registered email address.\n\n==================================================\nORDER STATUS\n==================================================\n\nAn order can have several statuses.\n\n\"Order Placed\" means the order has been successfully created but has not yet been processed.\n\n\"Processing\" means the warehouse is preparing the order.\n\n\"Shipped\" means the package has been handed over to the courier."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Fully supported and accurately includes both tracking methods and the post-shipment notification."
+    },
+    {
+      "id": 2,
+      "question": "How long does standard delivery take?",
+      "expected_answer": "Standard delivery usually takes 3 to 5 business days after shipment.",
+      "actual_answer": "Standard delivery usually takes 3 to 5 business days after shipment.",
+      "retrieved_context": [
+        "Express delivery usually takes 1 to 2 business days after shipment.\n\nDelivery times may vary depending on the customer's location, courier service, weather conditions, and public holidays.\n\nIf the tracking information has not been updated for more than 48 hours, the customer should contact customer support.\n\nAn order marked as \"Out for Delivery\" is usually delivered on the same business day, but delivery can sometimes be delayed.",
+        "E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE\n\n==================================================\nORDER TRACKING\n==================================================\n\nCustomers can track their orders using the Order Tracking page on the website.\n\nAfter an order is shipped, the customer receives a tracking number through email or SMS.\n\nStandard delivery usually takes 3 to 5 business days after shipment.\n\nExpress delivery usually takes 1 to 2 business days after shipment.",
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the context and expected delivery timeframe."
+    },
+    {
+      "id": 3,
+      "question": "How long does express delivery take?",
+      "expected_answer": "Express delivery usually takes 1 to 2 business days after shipment.",
+      "actual_answer": "Express delivery usually takes 1 to 2 business days after shipment.",
+      "retrieved_context": [
+        "Express delivery usually takes 1 to 2 business days after shipment.\n\nDelivery times may vary depending on the customer's location, courier service, weather conditions, and public holidays.\n\nIf the tracking information has not been updated for more than 48 hours, the customer should contact customer support.\n\nAn order marked as \"Out for Delivery\" is usually delivered on the same business day, but delivery can sometimes be delayed.",
+        "E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE\n\n==================================================\nORDER TRACKING\n==================================================\n\nCustomers can track their orders using the Order Tracking page on the website.\n\nAfter an order is shipped, the customer receives a tracking number through email or SMS.\n\nStandard delivery usually takes 3 to 5 business days after shipment.\n\nExpress delivery usually takes 1 to 2 business days after shipment.",
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the context and expected delivery timeframe."
+    },
+    {
+      "id": 4,
+      "question": "What should a customer do if tracking information has not updated for more than 48 hours?",
+      "expected_answer": "The customer should contact customer support.",
+      "actual_answer": "The customer should contact support.",
+      "retrieved_context": [
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery.",
+        "E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE\n\n==================================================\nORDER TRACKING\n==================================================\n\nCustomers can track their orders using the Order Tracking page on the website.\n\nAfter an order is shipped, the customer receives a tracking number through email or SMS.\n\nStandard delivery usually takes 3 to 5 business days after shipment.\n\nExpress delivery usually takes 1 to 2 business days after shipment.",
+        "The support team will check the shipment information.\n\nIf the item was shipped separately, the customer will receive separate tracking information.\n\nIf the item was not shipped, the company may arrange another shipment or provide a refund.\n\n==================================================\nPAYMENT METHODS\n==================================================\n\nThe store accepts credit cards, debit cards, UPI, and net banking."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Directly and accurately states the required action."
+    },
+    {
+      "id": 5,
+      "question": "What does the order status \"Processing\" mean?",
+      "expected_answer": "\"Processing\" means the warehouse is preparing the order.",
+      "actual_answer": "“Processing” means the warehouse is preparing the order.",
+      "retrieved_context": [
+        "Customers can track their order using their order number and registered email address.\n\n==================================================\nORDER STATUS\n==================================================\n\nAn order can have several statuses.\n\n\"Order Placed\" means the order has been successfully created but has not yet been processed.\n\n\"Processing\" means the warehouse is preparing the order.\n\n\"Shipped\" means the package has been handed over to the courier.",
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery.",
+        "E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE\n\n==================================================\nORDER TRACKING\n==================================================\n\nCustomers can track their orders using the Order Tracking page on the website.\n\nAfter an order is shipped, the customer receives a tracking number through email or SMS.\n\nStandard delivery usually takes 3 to 5 business days after shipment.\n\nExpress delivery usually takes 1 to 2 business days after shipment."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the stated meaning of Processing."
+    },
+    {
+      "id": 6,
+      "question": "What does the order status \"Shipped\" mean?",
+      "expected_answer": "\"Shipped\" means the package has been handed over to the courier.",
+      "actual_answer": "“Shipped” means the package has been handed over to the courier.",
+      "retrieved_context": [
+        "Customers can track their order using their order number and registered email address.\n\n==================================================\nORDER STATUS\n==================================================\n\nAn order can have several statuses.\n\n\"Order Placed\" means the order has been successfully created but has not yet been processed.\n\n\"Processing\" means the warehouse is preparing the order.\n\n\"Shipped\" means the package has been handed over to the courier.",
+        "\"Shipped\" means the package has been handed over to the courier.\n\n\"Out for Delivery\" means the courier is attempting to deliver the package.\n\n\"Delivered\" means the courier has confirmed delivery.\n\n\"Cancelled\" means the order has been cancelled and will not be delivered.\n\n==================================================\nRETURNS\n==================================================\n\nCustomers can return eligible products within 30 days of delivery.",
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the stated meaning of Shipped."
+    },
+    {
+      "id": 7,
+      "question": "Within how many days can a customer return an eligible product?",
+      "expected_answer": "Customers can return eligible products within 30 days of delivery.",
+      "actual_answer": "Within 30 days of delivery.",
+      "retrieved_context": [
+        "Customers can return eligible products within 30 days of delivery.\n\nProducts must be unused and returned in their original packaging.\n\nProducts should include original accessories, manuals, tags, and invoices when applicable.\n\nSome products, such as personalized products, customized products, and certain hygiene products, cannot be returned.\n\nCustomers must create a return request through the Orders section of the website.",
+        "If a customer wants to return a product after 30 days, the product may not qualify under the standard return policy.\n\nIf a customer receives the wrong product, they should create a return request using the \"Wrong Product Received\" reason.\n\nIf a refund is delayed beyond the expected processing period, the customer should contact support.\n\nIf a payment was deducted but an order was not created, the payment may be automatically reversed.",
+        "Customers must create a return request through the Orders section of the website.\n\nThe return request may be rejected if the product is damaged due to customer misuse.\n\nProducts received in a damaged or defective condition may qualify for a replacement or refund.\n\n==================================================\nRETURN PROCESS\n==================================================\n\nTo return a product, the customer should open the Orders section."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Correctly gives the 30-day period measured from delivery."
+    },
+    {
+      "id": 8,
+      "question": "What condition must a returned product be in?",
+      "expected_answer": "Products must be unused and returned in their original packaging, including original accessories, manuals, tags, and invoices when applicable.",
+      "actual_answer": "The product must be unused and in its original packaging, with original accessories, manuals, tags, and invoices when applicable.",
+      "retrieved_context": [
+        "Customers can return eligible products within 30 days of delivery.\n\nProducts must be unused and returned in their original packaging.\n\nProducts should include original accessories, manuals, tags, and invoices when applicable.\n\nSome products, such as personalized products, customized products, and certain hygiene products, cannot be returned.\n\nCustomers must create a return request through the Orders section of the website.",
+        "If a customer receives a product different from the product ordered, they should create a return request.\n\nThe customer should select \"Wrong Product Received\" as the return reason.\n\nThe customer may be asked to provide photographs of the received product.\n\nThe company may arrange a pickup of the incorrect product.\n\nA replacement may be shipped after the incorrect product is returned.\n\nIf a replacement is unavailable, the customer may receive a refund.",
+        "Customers must create a return request through the Orders section of the website.\n\nThe return request may be rejected if the product is damaged due to customer misuse.\n\nProducts received in a damaged or defective condition may qualify for a replacement or refund.\n\n==================================================\nRETURN PROCESS\n==================================================\n\nTo return a product, the customer should open the Orders section."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Accurately states all required return-condition details."
+    },
+    {
+      "id": 9,
+      "question": "What types of products cannot be returned?",
+      "expected_answer": "Personalized products, customized products, and certain hygiene products cannot be returned.",
+      "actual_answer": "Personalized products, customized products, and certain hygiene products cannot be returned.",
+      "retrieved_context": [
+        "Customers can return eligible products within 30 days of delivery.\n\nProducts must be unused and returned in their original packaging.\n\nProducts should include original accessories, manuals, tags, and invoices when applicable.\n\nSome products, such as personalized products, customized products, and certain hygiene products, cannot be returned.\n\nCustomers must create a return request through the Orders section of the website.",
+        "Customers must create a return request through the Orders section of the website.\n\nThe return request may be rejected if the product is damaged due to customer misuse.\n\nProducts received in a damaged or defective condition may qualify for a replacement or refund.\n\n==================================================\nRETURN PROCESS\n==================================================\n\nTo return a product, the customer should open the Orders section.",
+        "If a customer receives a product different from the product ordered, they should create a return request.\n\nThe customer should select \"Wrong Product Received\" as the return reason.\n\nThe customer may be asked to provide photographs of the received product.\n\nThe company may arrange a pickup of the incorrect product.\n\nA replacement may be shipped after the incorrect product is returned.\n\nIf a replacement is unavailable, the customer may receive a refund."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly identifies the non-returnable product types."
+    },
+    {
+      "id": 10,
+      "question": "How does a customer start a return request?",
+      "expected_answer": "The customer opens the Orders section, selects the order and product, selects \"Return Item\", and selects a return reason. Photographs may be required for damaged or defective products.",
+      "actual_answer": "Open the website’s Orders section, select the order containing the product, choose “Return Item,” and select a return reason.",
+      "retrieved_context": [
+        "Customers must create a return request through the Orders section of the website.\n\nThe return request may be rejected if the product is damaged due to customer misuse.\n\nProducts received in a damaged or defective condition may qualify for a replacement or refund.\n\n==================================================\nRETURN PROCESS\n==================================================\n\nTo return a product, the customer should open the Orders section.",
+        "To return a product, the customer should open the Orders section.\n\nThe customer should select the order that contains the product.\n\nThe customer should select \"Return Item\".\n\nThe customer must select a return reason.\n\nThe customer may be required to upload photographs for damaged or defective products.\n\nAfter the return request is approved, the customer receives instructions for returning the product.\n\nThe courier may collect the product from the customer's address.",
+        "If a customer receives a product different from the product ordered, they should create a return request.\n\nThe customer should select \"Wrong Product Received\" as the return reason.\n\nThe customer may be asked to provide photographs of the received product.\n\nThe company may arrange a pickup of the incorrect product.\n\nA replacement may be shipped after the incorrect product is returned.\n\nIf a replacement is unavailable, the customer may receive a refund."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 0.95,
+      "correctness": 0.9,
+      "reason": "Correctly gives the core return-request steps but omits that photographs may be required for damaged or defective products."
+    },
+    {
+      "id": 11,
+      "question": "When does the refund process begin?",
+      "expected_answer": "The refund process begins once the returned product is received and inspected.",
+      "actual_answer": "The refund process begins once the returned product is received and inspected.",
+      "retrieved_context": [
+        "If a customer wants to return a product after 30 days, the product may not qualify under the standard return policy.\n\nIf a customer receives the wrong product, they should create a return request using the \"Wrong Product Received\" reason.\n\nIf a refund is delayed beyond the expected processing period, the customer should contact support.\n\nIf a payment was deducted but an order was not created, the payment may be automatically reversed.",
+        "Customers should contact support if a refund has not appeared after the expected processing period.\n\n==================================================\nORDER CANCELLATION\n==================================================\n\nCustomers can cancel an order before it is shipped.\n\nOnce an order has been shipped, it cannot normally be cancelled.\n\nIf an order has already been shipped, the customer can request a return after delivery if the product is eligible for return.",
+        "The courier may collect the product from the customer's address.\n\nOnce the returned product is received and inspected, the refund process begins.\n\n==================================================\nREFUNDS\n==================================================\n\nAfter a returned product is received and inspected, the refund is normally processed within 5 to 7 business days.\n\nThe refund is sent to the original payment method."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly states when the refund process begins."
+    },
+    {
+      "id": 12,
+      "question": "How long does a refund take to process after a return is inspected?",
+      "expected_answer": "The refund is normally processed within 5 to 7 business days after the returned product is received and inspected.",
+      "actual_answer": "A refund is normally processed within 5 to 7 business days after the return is received and inspected.",
+      "retrieved_context": [
+        "The courier may collect the product from the customer's address.\n\nOnce the returned product is received and inspected, the refund process begins.\n\n==================================================\nREFUNDS\n==================================================\n\nAfter a returned product is received and inspected, the refund is normally processed within 5 to 7 business days.\n\nThe refund is sent to the original payment method.",
+        "If a customer wants to return a product after 30 days, the product may not qualify under the standard return policy.\n\nIf a customer receives the wrong product, they should create a return request using the \"Wrong Product Received\" reason.\n\nIf a refund is delayed beyond the expected processing period, the customer should contact support.\n\nIf a payment was deducted but an order was not created, the payment may be automatically reversed.",
+        "Customers can return eligible products within 30 days of delivery.\n\nProducts must be unused and returned in their original packaging.\n\nProducts should include original accessories, manuals, tags, and invoices when applicable.\n\nSome products, such as personalized products, customized products, and certain hygiene products, cannot be returned.\n\nCustomers must create a return request through the Orders section of the website."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Accurately gives both the triggering event and processing timeframe."
+    },
+    {
+      "id": 13,
+      "question": "Are shipping charges refundable?",
+      "expected_answer": "Shipping charges are generally non-refundable.",
+      "actual_answer": "Shipping charges are generally non-refundable.",
+      "retrieved_context": [
+        "The refund is sent to the original payment method.\n\nBank processing times can cause the refund to take additional time to appear in the customer's account.\n\nShipping charges are generally non-refundable.\n\nIf a customer paid using a credit card, the refund will normally be returned to the same credit card.\n\nIf a customer paid using UPI, the refund will normally be processed to the original payment method.",
+        "Customers should contact support if a refund has not appeared after the expected processing period.\n\n==================================================\nORDER CANCELLATION\n==================================================\n\nCustomers can cancel an order before it is shipped.\n\nOnce an order has been shipped, it cannot normally be cancelled.\n\nIf an order has already been shipped, the customer can request a return after delivery if the product is eligible for return.",
+        "Cancellation requests can be submitted from the Orders section.\n\nIf payment was already completed, the refund will be processed after cancellation according to the refund policy.\n\n==================================================\nDAMAGED PRODUCTS\n==================================================\n\nIf a customer receives a damaged product, they should report it within 48 hours of delivery.\n\nThe customer should provide photographs showing the damaged product and packaging."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the stated policy."
+    },
+    {
+      "id": 14,
+      "question": "Where is a refund sent if the customer paid by credit card?",
+      "expected_answer": "The refund will normally be returned to the same credit card that was used for payment.",
+      "actual_answer": "The refund will normally be returned to the same credit card.",
+      "retrieved_context": [
+        "The refund is sent to the original payment method.\n\nBank processing times can cause the refund to take additional time to appear in the customer's account.\n\nShipping charges are generally non-refundable.\n\nIf a customer paid using a credit card, the refund will normally be returned to the same credit card.\n\nIf a customer paid using UPI, the refund will normally be processed to the original payment method.",
+        "Customers should contact support if a refund has not appeared after the expected processing period.\n\n==================================================\nORDER CANCELLATION\n==================================================\n\nCustomers can cancel an order before it is shipped.\n\nOnce an order has been shipped, it cannot normally be cancelled.\n\nIf an order has already been shipped, the customer can request a return after delivery if the product is eligible for return.",
+        "The support team will check the shipment information.\n\nIf the item was shipped separately, the customer will receive separate tracking information.\n\nIf the item was not shipped, the company may arrange another shipment or provide a refund.\n\n==================================================\nPAYMENT METHODS\n==================================================\n\nThe store accepts credit cards, debit cards, UPI, and net banking."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Correctly states that the refund returns to the same credit card."
+    },
+    {
+      "id": 15,
+      "question": "Can a customer cancel an order after it has been shipped?",
+      "expected_answer": "Once an order has been shipped, it cannot normally be cancelled. The customer can request a return after delivery if the product is eligible.",
+      "actual_answer": "No. Once shipped, an order cannot normally be cancelled. The customer may request a return after delivery if the product is eligible.",
+      "retrieved_context": [
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery.",
+        "Customers should contact support if a refund has not appeared after the expected processing period.\n\n==================================================\nORDER CANCELLATION\n==================================================\n\nCustomers can cancel an order before it is shipped.\n\nOnce an order has been shipped, it cannot normally be cancelled.\n\nIf an order has already been shipped, the customer can request a return after delivery if the product is eligible for return.",
+        "Cancellation requests can be submitted from the Orders section.\n\nIf payment was already completed, the refund will be processed after cancellation according to the refund policy.\n\n==================================================\nDAMAGED PRODUCTS\n==================================================\n\nIf a customer receives a damaged product, they should report it within 48 hours of delivery.\n\nThe customer should provide photographs showing the damaged product and packaging."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Fully captures both the normal cancellation restriction and the return option."
+    },
+    {
+      "id": 16,
+      "question": "What should a customer do if they receive a damaged product?",
+      "expected_answer": "They should report it within 48 hours of delivery and provide photographs showing the damaged product and packaging.",
+      "actual_answer": "Report it within 48 hours of delivery and provide photographs showing the damaged product and packaging. Keep the original packaging until the issue is resolved.",
+      "retrieved_context": [
+        "The customer should provide photographs showing the damaged product and packaging.\n\nThe support team reviews the damage report.\n\nDepending on availability, the customer may receive a replacement or refund.\n\nCustomers should keep the original packaging until the issue is resolved.\n\n==================================================\nWRONG PRODUCT\n==================================================",
+        "If a customer receives a product different from the product ordered, they should create a return request.\n\nThe customer should select \"Wrong Product Received\" as the return reason.\n\nThe customer may be asked to provide photographs of the received product.\n\nThe company may arrange a pickup of the incorrect product.\n\nA replacement may be shipped after the incorrect product is returned.\n\nIf a replacement is unavailable, the customer may receive a refund.",
+        "Cancellation requests can be submitted from the Orders section.\n\nIf payment was already completed, the refund will be processed after cancellation according to the refund policy.\n\n==================================================\nDAMAGED PRODUCTS\n==================================================\n\nIf a customer receives a damaged product, they should report it within 48 hours of delivery.\n\nThe customer should provide photographs showing the damaged product and packaging."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Fully supported and includes all expected actions plus a relevant packaging instruction."
+    },
+    {
+      "id": 17,
+      "question": "What should a customer do if they receive the wrong product?",
+      "expected_answer": "They should create a return request and select \"Wrong Product Received\" as the return reason. A replacement may be shipped, or a refund issued if unavailable.",
+      "actual_answer": "Create a return request and select “Wrong Product Received” as the return reason. You may be asked to provide photographs of the received product.",
+      "retrieved_context": [
+        "If a customer receives a product different from the product ordered, they should create a return request.\n\nThe customer should select \"Wrong Product Received\" as the return reason.\n\nThe customer may be asked to provide photographs of the received product.\n\nThe company may arrange a pickup of the incorrect product.\n\nA replacement may be shipped after the incorrect product is returned.\n\nIf a replacement is unavailable, the customer may receive a refund.",
+        "The customer should provide photographs showing the damaged product and packaging.\n\nThe support team reviews the damage report.\n\nDepending on availability, the customer may receive a replacement or refund.\n\nCustomers should keep the original packaging until the issue is resolved.\n\n==================================================\nWRONG PRODUCT\n==================================================",
+        "If a customer wants to return a product after 30 days, the product may not qualify under the standard return policy.\n\nIf a customer receives the wrong product, they should create a return request using the \"Wrong Product Received\" reason.\n\nIf a refund is delayed beyond the expected processing period, the customer should contact support.\n\nIf a payment was deducted but an order was not created, the payment may be automatically reversed."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 0.9,
+      "correctness": 0.85,
+      "reason": "Correctly explains how to report the wrong product but omits the possible replacement or refund outcomes."
+    },
+    {
+      "id": 18,
+      "question": "What should a customer do if an item is missing from their order?",
+      "expected_answer": "They should contact support and provide the order number and details of the missing item so the support team can check the shipment information.",
+      "actual_answer": "Contact support and provide the order number and details of the missing item. The support team will check the shipment information.",
+      "retrieved_context": [
+        "If a replacement is unavailable, the customer may receive a refund.\n\n==================================================\nMISSING ITEMS\n==================================================\n\nIf an order contains multiple products and one product is missing, the customer should contact support.\n\nThe customer should provide the order number and details of the missing item.\n\nThe support team will check the shipment information.",
+        "If a customer receives a product different from the product ordered, they should create a return request.\n\nThe customer should select \"Wrong Product Received\" as the return reason.\n\nThe customer may be asked to provide photographs of the received product.\n\nThe company may arrange a pickup of the incorrect product.\n\nA replacement may be shipped after the incorrect product is returned.\n\nIf a replacement is unavailable, the customer may receive a refund.",
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the required steps and support-team action."
+    },
+    {
+      "id": 19,
+      "question": "What payment methods does the store accept?",
+      "expected_answer": "The store accepts credit cards, debit cards, UPI, and net banking.",
+      "actual_answer": "The store accepts credit cards, debit cards, UPI, and net banking.",
+      "retrieved_context": [
+        "The store accepts credit cards, debit cards, UPI, and net banking.\n\nSome products may support additional payment methods depending on the customer's location.\n\nPayment information is encrypted and securely processed.\n\nThe store does not store complete card numbers.\n\nCustomers should never share their card PIN, CVV, password, or one-time password with customer support.\n\n==================================================\nPAYMENT FAILURE\n==================================================",
+        "The support team will check the shipment information.\n\nIf the item was shipped separately, the customer will receive separate tracking information.\n\nIf the item was not shipped, the company may arrange another shipment or provide a refund.\n\n==================================================\nPAYMENT METHODS\n==================================================\n\nThe store accepts credit cards, debit cards, UPI, and net banking.",
+        "Customers should pay the exact amount requested by the delivery agent whenever possible.\n\nCash on Delivery orders may have an order value limit.\n\nSome products may not support Cash on Delivery.\n\n==================================================\nPRODUCT INFORMATION\n==================================================\n\nProduct information is available on each product page.\n\nProduct pages may include price, specifications, dimensions, weight, materials, warranty information, and available colors."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly lists all stated payment methods."
+    },
+    {
+      "id": 20,
+      "question": "What should a customer do if a payment failed but the amount was deducted?",
+      "expected_answer": "If the amount was deducted but the order was not created, the payment will normally be automatically reversed. The customer should contact support if it is not reversed within the expected banking period.",
+      "actual_answer": "The payment will normally be automatically reversed. Contact support if it is not reversed within the expected banking period.",
+      "retrieved_context": [
+        "If a payment fails, the customer should first check whether the amount was deducted from their bank account.\n\nIf the amount was not deducted, the customer can try the payment again.\n\nIf the amount was deducted but the order was not created, the payment will normally be automatically reversed.\n\nCustomers should contact support if a failed payment has not been reversed within the expected banking period.",
+        "If a payment was deducted but an order was not created, the payment may be automatically reversed.\n\n==================================================\nEND OF KNOWLEDGE BASE\n==================================================",
+        "If a customer wants to return a product after 30 days, the product may not qualify under the standard return policy.\n\nIf a customer receives the wrong product, they should create a return request using the \"Wrong Product Received\" reason.\n\nIf a refund is delayed beyond the expected processing period, the customer should contact support.\n\nIf a payment was deducted but an order was not created, the payment may be automatically reversed."
+      ],
+      "faithfulness": 0.95,
+      "answer_relevance": 1.0,
+      "correctness": 0.95,
+      "reason": "Correctly states the reversal and escalation guidance, though it does not explicitly mention that the order was not created."
+    },
+    {
+      "id": 21,
+      "question": "Is Cash on Delivery available for all products and locations?",
+      "expected_answer": "Cash on Delivery is available only for eligible products and locations, and some products may not support it.",
+      "actual_answer": "No. Cash on Delivery is available only for eligible products and locations, and availability is displayed during checkout.",
+      "retrieved_context": [
+        "Customers should pay the exact amount requested by the delivery agent whenever possible.\n\nCash on Delivery orders may have an order value limit.\n\nSome products may not support Cash on Delivery.\n\n==================================================\nPRODUCT INFORMATION\n==================================================\n\nProduct information is available on each product page.\n\nProduct pages may include price, specifications, dimensions, weight, materials, warranty information, and available colors.",
+        "Customers should provide the transaction reference number when contacting support about a payment issue.\n\n==================================================\nCASH ON DELIVERY\n==================================================\n\nCash on Delivery is available only for eligible products and locations.\n\nThe availability of Cash on Delivery is displayed during checkout.\n\nCustomers should pay the exact amount requested by the delivery agent whenever possible.",
+        "The company delivers to most major cities and towns.\n\nDelivery availability depends on the customer's postal code.\n\nSome remote locations may have longer delivery times.\n\nCustomers can enter their postal code on the product page to check delivery availability.\n\nPublic holidays and severe weather can affect delivery times.\n\n==================================================\nDELIVERY ADDRESS\n=================================================="
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Correctly limits Cash on Delivery to eligible products and locations and adds supported checkout guidance."
+    },
+    {
+      "id": 22,
+      "question": "What can cause product prices to change?",
+      "expected_answer": "Prices may change because of promotions, discounts, seasonal offers, or inventory changes.",
+      "actual_answer": "Promotions, discounts, seasonal offers, or inventory changes can cause product prices to change.",
+      "retrieved_context": [
+        "Customers may choose the \"Notify Me\" option when available.\n\nThe customer will receive a notification when the product becomes available again.\n\nProduct availability can change without notice because inventory changes continuously.\n\n==================================================\nPRODUCT PRICE\n==================================================\n\nProduct prices are displayed on the product page.\n\nPrices may change because of promotions, discounts, seasonal offers, or inventory changes.",
+        "Prices may change because of promotions, discounts, seasonal offers, or inventory changes.\n\nThe price displayed during checkout is the final price before payment.\n\nCustomers should verify the final amount before completing an order.\n\n==================================================\nDISCOUNTS AND COUPONS\n==================================================\n\nDiscount coupons can be applied during checkout.\n\nA coupon may have an expiration date.",
+        "Customers should pay the exact amount requested by the delivery agent whenever possible.\n\nCash on Delivery orders may have an order value limit.\n\nSome products may not support Cash on Delivery.\n\n==================================================\nPRODUCT INFORMATION\n==================================================\n\nProduct information is available on each product page.\n\nProduct pages may include price, specifications, dimensions, weight, materials, warranty information, and available colors."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly lists the stated causes of price changes."
+    },
+    {
+      "id": 23,
+      "question": "What happens if a discount coupon has expired?",
+      "expected_answer": "Expired or invalid coupons cannot be applied.",
+      "actual_answer": "Expired coupons cannot be applied.",
+      "retrieved_context": [
+        "Discount coupons can be applied during checkout.\n\nA coupon may have an expiration date.\n\nSome coupons are valid only for specific products or categories.\n\nSome coupons require a minimum order value.\n\nOnly one promotional coupon may be used per order unless the promotion explicitly allows multiple coupons.\n\nExpired or invalid coupons cannot be applied.\n\n==================================================\nDELIVERY\n==================================================",
+        "Prices may change because of promotions, discounts, seasonal offers, or inventory changes.\n\nThe price displayed during checkout is the final price before payment.\n\nCustomers should verify the final amount before completing an order.\n\n==================================================\nDISCOUNTS AND COUPONS\n==================================================\n\nDiscount coupons can be applied during checkout.\n\nA coupon may have an expiration date.",
+        "If a customer wants to return a product after 30 days, the product may not qualify under the standard return policy.\n\nIf a customer receives the wrong product, they should create a return request using the \"Wrong Product Received\" reason.\n\nIf a refund is delayed beyond the expected processing period, the customer should contact support.\n\nIf a payment was deducted but an order was not created, the payment may be automatically reversed."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Directly and correctly states that expired coupons cannot be applied."
+    },
+    {
+      "id": 24,
+      "question": "Can a customer change their delivery address after the order has shipped?",
+      "expected_answer": "Once an order has been shipped, the delivery address normally cannot be changed.",
+      "actual_answer": "Once an order has shipped, the delivery address normally cannot be changed.",
+      "retrieved_context": [
+        "Customers can change their delivery address before the order is shipped.\n\nOnce an order has been shipped, the delivery address normally cannot be changed.\n\nCustomers should verify their address before completing the order.\n\nIncorrect or incomplete addresses may cause delivery delays.\n\n==================================================\nMISSED DELIVERY\n==================================================\n\nIf the customer is unavailable during delivery, the courier may attempt delivery again.",
+        "If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.\n\nIf tracking information has not changed for more than 48 hours, the customer should contact support.\n\nIf a customer receives a damaged product, they should report it within 48 hours.\n\nIf a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery.",
+        "If the customer is unavailable during delivery, the courier may attempt delivery again.\n\nThe number of delivery attempts depends on the courier service.\n\nCustomers may receive a notification about another delivery attempt.\n\nIf all delivery attempts fail, the package may be returned to the warehouse.\n\n==================================================\nCUSTOMER ACCOUNT\n==================================================\n\nCustomers can create an account using their email address or mobile number."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the post-shipment address-change policy."
+    },
+    {
+      "id": 25,
+      "question": "How can a customer reset a forgotten password?",
+      "expected_answer": "The customer selects \"Forgot Password\" on the login page and follows the verification steps sent to their registered email address or mobile number before creating a new password.",
+      "actual_answer": "Select “Forgot Password” on the login page. A reset link or verification code will be sent to the registered email address or mobile number. Follow the verification steps, then create a new password.",
+      "retrieved_context": [
+        "Customers who forget their password can select \"Forgot Password\" on the login page.\n\nA password reset link or verification code will be sent to the registered email address or mobile number.\n\nThe customer must follow the verification steps before creating a new password.\n\n==================================================\nWARRANTY\n==================================================\n\nWarranty coverage depends on the product and manufacturer.",
+        "Customers can create an account using their email address or mobile number.\n\nCustomers can update their profile information from Account Settings.\n\nCustomers should use a strong password for their account.\n\nCustomers should never share their account password or one-time password with anyone.\n\n==================================================\nPASSWORD RESET\n==================================================\n\nCustomers who forget their password can select \"Forgot Password\" on the login page.",
+        "If the customer is unavailable during delivery, the courier may attempt delivery again.\n\nThe number of delivery attempts depends on the courier service.\n\nCustomers may receive a notification about another delivery attempt.\n\nIf all delivery attempts fail, the package may be returned to the warehouse.\n\n==================================================\nCUSTOMER ACCOUNT\n==================================================\n\nCustomers can create an account using their email address or mobile number."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Fully and accurately describes the password-reset process."
+    },
+    {
+      "id": 26,
+      "question": "What information should customers never share with customer support?",
+      "expected_answer": "Customers should never share their account password, card PIN, CVV, or one-time password with customer support.",
+      "actual_answer": "Customers should never share passwords, card PINs, CVV numbers, or one-time passwords (OTPs).",
+      "retrieved_context": [
+        "Customer personal information must be protected.\n\nCustomer support agents should only access information required to resolve the customer's request.\n\nCustomers should never be asked to provide passwords, card PINs, CVV numbers, or one-time passwords.\n\nOne customer's private order information must never be disclosed to another customer.\n\n==================================================\nCUSTOMER SUPPORT\n==================================================",
+        "Customers should not share passwords, card PINs, CVV numbers, or OTPs.\n\nThe company will never ask customers to share their account password.\n\nCustomers should be cautious of suspicious emails requesting payment information.\n\nCustomers should report suspected fraudulent activity to customer support.\n\n==================================================\nCOMMON EDGE CASES\n==================================================",
+        "Customer support is available Monday to Friday from 9 AM to 6 PM.\n\nCustomers can contact support through the Help Center.\n\nCustomers should provide their order number when contacting support about an existing order.\n\nSupport requests are handled according to their priority and type.\n\nUrgent payment and security issues may receive higher priority.\n\n==================================================\nSECURITY\n=================================================="
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Accurately lists all sensitive credentials customers must not share."
+    },
+    {
+      "id": 27,
+      "question": "What are the customer support hours?",
+      "expected_answer": "Customer support is available Monday to Friday from 9 AM to 6 PM.",
+      "actual_answer": "Customer support is available Monday to Friday from 9 AM to 6 PM.",
+      "retrieved_context": [
+        "Customer support is available Monday to Friday from 9 AM to 6 PM.\n\nCustomers can contact support through the Help Center.\n\nCustomers should provide their order number when contacting support about an existing order.\n\nSupport requests are handled according to their priority and type.\n\nUrgent payment and security issues may receive higher priority.\n\n==================================================\nSECURITY\n==================================================",
+        "E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE\n\n==================================================\nORDER TRACKING\n==================================================\n\nCustomers can track their orders using the Order Tracking page on the website.\n\nAfter an order is shipped, the customer receives a tracking number through email or SMS.\n\nStandard delivery usually takes 3 to 5 business days after shipment.\n\nExpress delivery usually takes 1 to 2 business days after shipment.",
+        "Customers should contact support if a refund has not appeared after the expected processing period.\n\n==================================================\nORDER CANCELLATION\n==================================================\n\nCustomers can cancel an order before it is shipped.\n\nOnce an order has been shipped, it cannot normally be cancelled.\n\nIf an order has already been shipped, the customer can request a return after delivery if the product is eligible for return."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "Exactly matches the stated customer-support hours."
+    }
+  ]
+}

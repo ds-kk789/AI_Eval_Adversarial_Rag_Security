@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-04T14:45:05.224558+08:00",
+  "evaluation_backend": "Codex desktop account runtime (preview)",
+  "entries": 1,
+  "averages": {
+    "faithfulness": 1.0,
+    "answer_relevance": 1.0,
+    "correctness": 1.0
+  },
+  "results": [
+    {
+      "id": 1,
+      "question": "How can customers track their orders?",
+      "expected_answer": "Customers can track their orders using the Order Tracking page on the website, or using their order number and registered email address.",
+      "actual_answer": "Customers can track orders on the website’s Order Tracking page using their order number and registered email address. After shipment, they’ll also receive a tracking number by email or SMS.",
+      "retrieved_context": [
+        "The support team will check the shipment information.\n\nIf the item was shipped separately, the customer will receive separate tracking information.\n\nIf the item was not shipped, the company may arrange another shipment or provide a refund.\n\n==================================================\nPAYMENT METHODS\n==================================================\n\nThe store accepts credit cards, debit cards, UPI, and net banking.",
+        "E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE\n\n==================================================\nORDER TRACKING\n==================================================\n\nCustomers can track their orders using the Order Tracking page on the website.\n\nAfter an order is shipped, the customer receives a tracking number through email or SMS.\n\nStandard delivery usually takes 3 to 5 business days after shipment.\n\nExpress delivery usually takes 1 to 2 business days after shipment.",
+        "Customers can track their order using their order number and registered email address.\n\n==================================================\nORDER STATUS\n==================================================\n\nAn order can have several statuses.\n\n\"Order Placed\" means the order has been successfully created but has not yet been processed.\n\n\"Processing\" means the warehouse is preparing the order.\n\n\"Shipped\" means the package has been handed over to the courier."
+      ],
+      "faithfulness": 1.0,
+      "answer_relevance": 1.0,
+      "correctness": 1.0,
+      "reason": "The answer directly explains both supported tracking methods and accurately adds that a tracking number is sent by email or SMS after shipment."
+    }
+  ]
+}

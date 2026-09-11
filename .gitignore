@@ -1,0 +1,25 @@
+# Secrets — never commit
+.env
+
+# Virtualenv
+aienv/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Generated FAISS index — rebuild with rag_pipeline.py
+data/faiss/
+
+# Claude Code local runtime state
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

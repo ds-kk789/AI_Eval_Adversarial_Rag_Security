@@ -1,0 +1,385 @@
+E-COMMERCE CUSTOMER SUPPORT KNOWLEDGE BASE
+
+==================================================
+ORDER TRACKING
+==================================================
+
+Customers can track their orders using the Order Tracking page on the website.
+
+After an order is shipped, the customer receives a tracking number through email or SMS.
+
+Standard delivery usually takes 3 to 5 business days after shipment.
+
+Express delivery usually takes 1 to 2 business days after shipment.
+
+Delivery times may vary depending on the customer's location, courier service, weather conditions, and public holidays.
+
+If the tracking information has not been updated for more than 48 hours, the customer should contact customer support.
+
+An order marked as "Out for Delivery" is usually delivered on the same business day, but delivery can sometimes be delayed.
+
+Customers can track their order using their order number and registered email address.
+
+==================================================
+ORDER STATUS
+==================================================
+
+An order can have several statuses.
+
+"Order Placed" means the order has been successfully created but has not yet been processed.
+
+"Processing" means the warehouse is preparing the order.
+
+"Shipped" means the package has been handed over to the courier.
+
+"Out for Delivery" means the courier is attempting to deliver the package.
+
+"Delivered" means the courier has confirmed delivery.
+
+"Cancelled" means the order has been cancelled and will not be delivered.
+
+==================================================
+RETURNS
+==================================================
+
+Customers can return eligible products within 30 days of delivery.
+
+Products must be unused and returned in their original packaging.
+
+Products should include original accessories, manuals, tags, and invoices when applicable.
+
+Some products, such as personalized products, customized products, and certain hygiene products, cannot be returned.
+
+Customers must create a return request through the Orders section of the website.
+
+The return request may be rejected if the product is damaged due to customer misuse.
+
+Products received in a damaged or defective condition may qualify for a replacement or refund.
+
+==================================================
+RETURN PROCESS
+==================================================
+
+To return a product, the customer should open the Orders section.
+
+The customer should select the order that contains the product.
+
+The customer should select "Return Item".
+
+The customer must select a return reason.
+
+The customer may be required to upload photographs for damaged or defective products.
+
+After the return request is approved, the customer receives instructions for returning the product.
+
+The courier may collect the product from the customer's address.
+
+Once the returned product is received and inspected, the refund process begins.
+
+==================================================
+REFUNDS
+==================================================
+
+After a returned product is received and inspected, the refund is normally processed within 5 to 7 business days.
+
+The refund is sent to the original payment method.
+
+Bank processing times can cause the refund to take additional time to appear in the customer's account.
+
+Shipping charges are generally non-refundable.
+
+If a customer paid using a credit card, the refund will normally be returned to the same credit card.
+
+If a customer paid using UPI, the refund will normally be processed to the original payment method.
+
+Customers should contact support if a refund has not appeared after the expected processing period.
+
+==================================================
+ORDER CANCELLATION
+==================================================
+
+Customers can cancel an order before it is shipped.
+
+Once an order has been shipped, it cannot normally be cancelled.
+
+If an order has already been shipped, the customer can request a return after delivery if the product is eligible for return.
+
+Cancellation requests can be submitted from the Orders section.
+
+If payment was already completed, the refund will be processed after cancellation according to the refund policy.
+
+==================================================
+DAMAGED PRODUCTS
+==================================================
+
+If a customer receives a damaged product, they should report it within 48 hours of delivery.
+
+The customer should provide photographs showing the damaged product and packaging.
+
+The support team reviews the damage report.
+
+Depending on availability, the customer may receive a replacement or refund.
+
+Customers should keep the original packaging until the issue is resolved.
+
+==================================================
+WRONG PRODUCT
+==================================================
+
+If a customer receives a product different from the product ordered, they should create a return request.
+
+The customer should select "Wrong Product Received" as the return reason.
+
+The customer may be asked to provide photographs of the received product.
+
+The company may arrange a pickup of the incorrect product.
+
+A replacement may be shipped after the incorrect product is returned.
+
+If a replacement is unavailable, the customer may receive a refund.
+
+==================================================
+MISSING ITEMS
+==================================================
+
+If an order contains multiple products and one product is missing, the customer should contact support.
+
+The customer should provide the order number and details of the missing item.
+
+The support team will check the shipment information.
+
+If the item was shipped separately, the customer will receive separate tracking information.
+
+If the item was not shipped, the company may arrange another shipment or provide a refund.
+
+==================================================
+PAYMENT METHODS
+==================================================
+
+The store accepts credit cards, debit cards, UPI, and net banking.
+
+Some products may support additional payment methods depending on the customer's location.
+
+Payment information is encrypted and securely processed.
+
+The store does not store complete card numbers.
+
+Customers should never share their card PIN, CVV, password, or one-time password with customer support.
+
+==================================================
+PAYMENT FAILURE
+==================================================
+
+If a payment fails, the customer should first check whether the amount was deducted from their bank account.
+
+If the amount was not deducted, the customer can try the payment again.
+
+If the amount was deducted but the order was not created, the payment will normally be automatically reversed.
+
+Customers should contact support if a failed payment has not been reversed within the expected banking period.
+
+Customers should provide the transaction reference number when contacting support about a payment issue.
+
+==================================================
+CASH ON DELIVERY
+==================================================
+
+Cash on Delivery is available only for eligible products and locations.
+
+The availability of Cash on Delivery is displayed during checkout.
+
+Customers should pay the exact amount requested by the delivery agent whenever possible.
+
+Cash on Delivery orders may have an order value limit.
+
+Some products may not support Cash on Delivery.
+
+==================================================
+PRODUCT INFORMATION
+==================================================
+
+Product information is available on each product page.
+
+Product pages may include price, specifications, dimensions, weight, materials, warranty information, and available colors.
+
+Customers should check product specifications before placing an order.
+
+Product images may appear slightly different from the actual product because of lighting and screen settings.
+
+==================================================
+PRODUCT AVAILABILITY
+==================================================
+
+A product marked "In Stock" can normally be ordered.
+
+A product marked "Out of Stock" cannot currently be ordered.
+
+Customers may choose the "Notify Me" option when available.
+
+The customer will receive a notification when the product becomes available again.
+
+Product availability can change without notice because inventory changes continuously.
+
+==================================================
+PRODUCT PRICE
+==================================================
+
+Product prices are displayed on the product page.
+
+Prices may change because of promotions, discounts, seasonal offers, or inventory changes.
+
+The price displayed during checkout is the final price before payment.
+
+Customers should verify the final amount before completing an order.
+
+==================================================
+DISCOUNTS AND COUPONS
+==================================================
+
+Discount coupons can be applied during checkout.
+
+A coupon may have an expiration date.
+
+Some coupons are valid only for specific products or categories.
+
+Some coupons require a minimum order value.
+
+Only one promotional coupon may be used per order unless the promotion explicitly allows multiple coupons.
+
+Expired or invalid coupons cannot be applied.
+
+==================================================
+DELIVERY
+==================================================
+
+The company delivers to most major cities and towns.
+
+Delivery availability depends on the customer's postal code.
+
+Some remote locations may have longer delivery times.
+
+Customers can enter their postal code on the product page to check delivery availability.
+
+Public holidays and severe weather can affect delivery times.
+
+==================================================
+DELIVERY ADDRESS
+==================================================
+
+Customers can change their delivery address before the order is shipped.
+
+Once an order has been shipped, the delivery address normally cannot be changed.
+
+Customers should verify their address before completing the order.
+
+Incorrect or incomplete addresses may cause delivery delays.
+
+==================================================
+MISSED DELIVERY
+==================================================
+
+If the customer is unavailable during delivery, the courier may attempt delivery again.
+
+The number of delivery attempts depends on the courier service.
+
+Customers may receive a notification about another delivery attempt.
+
+If all delivery attempts fail, the package may be returned to the warehouse.
+
+==================================================
+CUSTOMER ACCOUNT
+==================================================
+
+Customers can create an account using their email address or mobile number.
+
+Customers can update their profile information from Account Settings.
+
+Customers should use a strong password for their account.
+
+Customers should never share their account password or one-time password with anyone.
+
+==================================================
+PASSWORD RESET
+==================================================
+
+Customers who forget their password can select "Forgot Password" on the login page.
+
+A password reset link or verification code will be sent to the registered email address or mobile number.
+
+The customer must follow the verification steps before creating a new password.
+
+==================================================
+WARRANTY
+==================================================
+
+Warranty coverage depends on the product and manufacturer.
+
+Warranty duration is displayed on the product page when applicable.
+
+Warranty normally covers manufacturing defects.
+
+Physical damage caused by misuse may not be covered by warranty.
+
+Customers should contact support with the order number and product details when requesting warranty service.
+
+==================================================
+PRIVACY
+==================================================
+
+Customer personal information must be protected.
+
+Customer support agents should only access information required to resolve the customer's request.
+
+Customers should never be asked to provide passwords, card PINs, CVV numbers, or one-time passwords.
+
+One customer's private order information must never be disclosed to another customer.
+
+==================================================
+CUSTOMER SUPPORT
+==================================================
+
+Customer support is available Monday to Friday from 9 AM to 6 PM.
+
+Customers can contact support through the Help Center.
+
+Customers should provide their order number when contacting support about an existing order.
+
+Support requests are handled according to their priority and type.
+
+Urgent payment and security issues may receive higher priority.
+
+==================================================
+SECURITY
+==================================================
+
+Customers should not share passwords, card PINs, CVV numbers, or OTPs.
+
+The company will never ask customers to share their account password.
+
+Customers should be cautious of suspicious emails requesting payment information.
+
+Customers should report suspected fraudulent activity to customer support.
+
+==================================================
+COMMON EDGE CASES
+==================================================
+
+If an order is delayed beyond the estimated delivery date, the customer should check the latest tracking information.
+
+If tracking information has not changed for more than 48 hours, the customer should contact support.
+
+If a customer receives a damaged product, they should report it within 48 hours.
+
+If a customer wants to cancel an order after shipment, cancellation is normally unavailable and a return may be requested after delivery.
+
+If a customer wants to return a product after 30 days, the product may not qualify under the standard return policy.
+
+If a customer receives the wrong product, they should create a return request using the "Wrong Product Received" reason.
+
+If a refund is delayed beyond the expected processing period, the customer should contact support.
+
+If a payment was deducted but an order was not created, the payment may be automatically reversed.
+
+==================================================
+END OF KNOWLEDGE BASE
+==================================================

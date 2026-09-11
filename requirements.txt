@@ -1,0 +1,28 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+
+faiss-cpu
+numpy
+
+langchain
+langchain-community
+langchain-text-splitters
+
+# --- Original Gemini deps (commented out) ---
+# Gemini quota got exhausted; chat generation moved to Groq (free tier)
+# and embeddings moved to local sentence-transformers. Kept here, commented,
+# in case Gemini is ever swapped back in.
+# langchain-google-genai
+# google-genai
+
+# --- Groq: replaces Gemini for /ask chat generation (free tier) ---
+groq
+
+# --- Local embeddings: replaces Gemini embeddings (no API key/quota needed) ---
+sentence-transformers
+langchain-huggingface
+
+# --- Used by data_quality.py for similarity/consistency cosine-similarity checks ---
+scikit-learn
