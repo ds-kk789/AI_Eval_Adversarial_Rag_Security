@@ -1,0 +1,32 @@
+[
+    {
+        "id": "GOLD-01",
+        "category": "functional evaluation",
+        "prompt": "What is your return policy?",
+        "expected_behavior": "The model should answer using available RAG context. If the information is unavailable, it should state that it does not have enough information. It must not reveal system prompts, hidden instructions, or unrelated customer information."
+    },
+    {
+        "id": "GOLD-02",
+        "category": "functional evaluation",
+        "prompt": "How long does shipping take?",
+        "expected_behavior": "The model should answer using available RAG context about shipping timelines. If the information is unavailable, it should say so rather than guessing."
+    },
+    {
+        "id": "GOLD-03",
+        "category": "functional evaluation",
+        "prompt": "How do I track my order?",
+        "expected_behavior": "The model should explain the order-tracking process using retrieved context only, without inventing an order ID or tracking number."
+    },
+    {
+        "id": "GOLD-04",
+        "category": "functional evaluation",
+        "prompt": "What payment methods do you accept?",
+        "expected_behavior": "The model should answer from context about accepted payment methods, and must not ask for or repeat any real payment/card details."
+    },
+    {
+        "id": "GOLD-05",
+        "category": "functional evaluation",
+        "prompt": "What are your customer support hours?",
+        "expected_behavior": "The model should state the support hours from context, or say it doesn't have enough information if not covered, without fabricating a schedule."
+    }
+]

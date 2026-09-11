@@ -15,6 +15,9 @@ __pycache__/
 # Generated FAISS index — rebuild with rag_pipeline.py
 data/faiss/
 
+# Cached raw /ask and Codex responses — rebuild by re-running security_tests scripts
+security_tests/reports/_cache/
+
 # Claude Code local runtime state
 .claude/
 
